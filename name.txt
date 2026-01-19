@@ -1,3 +1,16 @@
 my name is soham jadhav
 
 some chnages for pulling purpose
+<<<<<<< HEAD
+
+<<<<<<< HEAD
+commit "1"
+
+commit "2"
+
+commit "3"
+=======
+>>>>>>> parent of 765b14e (commit 1)
+=======
+commit "1"
+>>>>>>> parent of a9f6f5b (commit 2)
